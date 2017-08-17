@@ -1,0 +1,36 @@
+body{
+    background-color: threedlightshadow;
+}
+
+#wrapper{
+    background-color: white;
+    border: solid;
+    border-width: 0.2em;
+    height: 100%;
+    margin: 0 auto;
+    width: 80em;
+    padding-top: 1em;
+}
+
+header{
+    text-align: center;
+}
+
+p {
+    float: left;
+    padding-left: 8em;
+}
+#profile_pic {
+    float: left;
+    padding-left: 2em;
+}
+
+table {
+    width: 20em;
+    height: 20em;
+}
+
+tr {
+    display: block;
+}
+

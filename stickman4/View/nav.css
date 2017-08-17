@@ -1,0 +1,51 @@
+nav{
+    font-family: cursive;
+    background-color: thistle;
+    border: solid;
+    border-width: thick;
+    height: 70px;
+    margin: none;
+}
+
+li {
+    display: inline;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+li a{
+    text-decoration: none;
+
+}
+
+ul{
+    list-style-type: none;
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+
+a:link{
+    color: blue;
+}
+
+
+a:visited{
+    color: blue;
+}
+
+li:hover{
+    background-color: lightgrey;
+    color: white;
+}
+
+#welcome{
+    color:blue;
+    margin-left:1000px;
+}
+
+#welcome:hover{
+    background-color:thistle;
+}
+

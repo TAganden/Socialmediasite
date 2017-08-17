@@ -1,0 +1,45 @@
+h1{
+    font-size:36px;
+    font-family: 'Palanquin Dark', sans-serif;
+}
+
+body h1{
+    text-align: center;
+    font-family: 'Palanquin Dark', sans-serif;
+}
+
+label {
+    text-align: left;
+    margin-right: 40px;
+}
+
+.textboxes {
+    float: right;
+    margin-right: 200px
+}
+
+#wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    border: solid;
+    padding: 20px;
+    font-family: 'Palanquin Dark', sans-serif;
+    background-color: white;
+}
+
+.error{
+    color: red;
+    font-weight: bolder;
+    padding-bottom:20px;
+}
+body {
+    background-color: lightblue;
+}
+
+input[type=submit] {
+    background-color: gainsboro;
+    font-family: 'Palanquin Dark', sans-serif;
+    width: 10em;
+}
+

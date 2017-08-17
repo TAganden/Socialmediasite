@@ -1,0 +1,5 @@
+Please run the sql code which:
+
+Creates the database, adds a record to the users table, and creates a StickAdmin administrator for the database.
+
+It currently writes new users to the table.
